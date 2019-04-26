@@ -1,5 +1,7 @@
 ## como rodar pojeto 
 ```sh 
+pipenv shell  
+pipenv install 
 export FLASK_APP=app
 export FLASK_ENV=Development
 export FLASK_DEBUG=True
