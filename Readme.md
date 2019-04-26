@@ -7,7 +7,7 @@ export FLASK_DEBUG=True
 flask run 
 ```
 
-Brincaod com flask e um crud simples.
+Brincando com flask e um crud simples.
 
 - flask
 - flask-migrate
